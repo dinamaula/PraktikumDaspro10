@@ -32,6 +32,14 @@ public class StudiKasus210 {
                 } else {
                     System.out.println("Status: Dokumen lengkap, tetapi bukan juara 1, 2, atau 3." + "Dana penghargaan tidak diberikan.");
                 }
+            } else if (jenisKegiatan.equalsIgnoreCase("PKM")) {
+                if (statusPKM == 1) {
+                    System.out.println("Status : Dokumen lengkap dan PKM lolos pendanaan." + "Dana penghargaan diberikan.");
+                } else {
+                    System.out.println("Status : Dokumen lengkap, tetapi PKM tidak lolos pendanaan." + "Dana penghargaan tidak diberikan.");
+                }
+            } else {
+                System.out.println("Status : Dokumen lengkap, tetapi kegiatan tidak termasuk." + "ketentuan. Dana penghargaan tidak diberikan.");
             }
         }
     }
