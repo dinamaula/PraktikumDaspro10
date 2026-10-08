@@ -3,7 +3,7 @@ Nama    : Dina Nusrotul Maula
 NIM     : 264107020217
 Kelas   : TI-1H
 
-# Hasil Uji Studi Kasus 2 Oleh Carisa Rahmanda Ryanti
+## Hasil Uji Studi Kasus 2 Oleh Carisa Rahmanda Ryanti
 | No | Jenis    | Dokumen | Juara/Dana | Output           | Sesuai? | 
 |----|----------|---------|------------|------------------|---------| 
 | 1  |Bakorama  | 3       | 1          | tidak diberikan  | Ya      |
